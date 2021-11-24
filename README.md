@@ -5,4 +5,4 @@
 - Se utilizo la medologia BEM usada para el desarrollo del CSS.
 - La Pagina web es 100% responsive para dispositivos moviles.
 
-Puedes verla dando [Click aquí](https://mpercif.github.io/practica--pagina-web-Flex/)
+Puedes verla dando [Click aquí](https://mpercif.github.io/practica--flexbox/)

@@ -244,7 +244,7 @@ body{
 /* Section Footer */
 
 .footer{
-    background-image: linear-gradient(to top, #5ee7dea2, #b490caa9) ,url(./assets/card1.jpg);
+    background-image: linear-gradient(to top, #5ee7dea2, #b490caa9) ,url(practica--flexbox/assets/card1.jpg);
     
     background-attachment: fixed;
 }

@@ -531,6 +531,12 @@ body{
         width: 80%;
     }
 
+
+    .about__cta{
+        font-size: 1rem;
+        padding: 10px 30px;
+    }
+
    
 /*Section Portfolio*/
 

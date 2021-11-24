@@ -28,7 +28,11 @@ body{
 /*Section Hero*/
 
 .hero{
-    background-image: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);
+    background-image: linear-gradient(to top, hsla(176, 74%, 64%, 0.664) 0%, #b490caa1 100%), url(../assets/card3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .hero__container{
@@ -491,34 +495,43 @@ body{
 /*Section Hero*/
 
     .hero__container{
-        justify-content: space-evenly;
+        justify-content: space-evenly ;
+    }
+
+    .hero__texts{
+        width: 90%;
     }
 
     .hero__title{
-        font-size: 2.2rem;
+        font-size: 2.8rem;
+        margin-bottom: 20px;
     }
 
     .hero__paragraph{
-        font-size: 1.3rem;
+        font-size: 1.8rem;
     }
 
     .hero__picture{
-        width: 80%;
+        width: 90%;
     }
 
 
 /*Section About*/
 
+    .about__paragraph:nth-last-of-type(1){
+        display: none;
+    }
+
+
     .about__paragraph{
-        font-size: 1rem;
+        font-size: 1.2rem;
     }
 
     .about__picture{
         width: 80%;
     }
 
-
-    
+   
 /*Section Portfolio*/
 
 
@@ -533,7 +546,7 @@ body{
 
     .portfolio__cta{
         width: 95%;
-        padding: 5px 0;
+        padding: 10px 0;
     }
 
 
